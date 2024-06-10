@@ -1,0 +1,1 @@
+#root{overflow-y:hidden}div{display:flex;justify-content:center;align-items:center;flex-direction:column;height:100vh;margin:0}body{margin:0}h1{color:#fff;font-family:Comic Sans MS}#button{display:flex;cursor:pointer;height:10vh;width:auto}#sheldon{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);z-index:-1;height:100vh;width:100vw}
